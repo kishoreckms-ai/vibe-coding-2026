@@ -1,0 +1,1194 @@
+{
+  "batches": [
+    {
+      "id": "AGR-9041",
+      "productKey": "strawberries",
+      "productName": "Organic California Strawberries",
+      "category": "Berries",
+      "quantityKg": 850,
+      "origin": "Salinas Valley, CA",
+      "destination": "Los Angeles Metro, CA",
+      "currentLocation": "San Fernando Valley Gateway (I-5 Mile 162)",
+      "transitProgressPercent": 78,
+      "totalExpectedTransitHours": 48,
+      "elapsedTransitHours": 36,
+      "carrier": "Pacific Cold Express Fleet #14",
+      "sensorId": "SNSR-BT-8921",
+      "startDate": "2026-10-06T16:57:27.405Z",
+      "currentTemp": 4.8,
+      "currentHumidity": 89,
+      "status": "At Risk",
+      "initialShelfLifeDays": 7,
+      "remainingShelfLifeDays": 5.03,
+      "remainingShelfLifePercent": 71.9,
+      "cumulativeAgingDaysLost": 0.47,
+      "currentAgingVelocity": 1.31,
+      "tempAgingMultiplier": 1.27,
+      "humidityAgingMultiplier": 1.03,
+      "recommendedDiscountPercent": 0,
+      "urgencyScore": 55,
+      "telemetryHistory": [
+        {
+          "id": "tel-0-1791435447404",
+          "timestamp": "2026-10-06T16:57:27.404Z",
+          "temperature": 1.2,
+          "humidity": 93,
+          "transitDurationHours": 4,
+          "location": "Salinas Valley Packing Facility",
+          "coordinates": {
+            "lat": 36.5,
+            "lng": -120.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 6.83
+        },
+        {
+          "id": "tel-1-1791435447404",
+          "timestamp": "2026-10-06T20:57:27.404Z",
+          "temperature": 1.4,
+          "humidity": 92,
+          "transitDurationHours": 8,
+          "location": "Central Valley Checkpoint",
+          "coordinates": {
+            "lat": 36.8,
+            "lng": -120.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 6.67
+        },
+        {
+          "id": "tel-2-1791435447404",
+          "timestamp": "2026-10-07T00:57:27.404Z",
+          "temperature": 2,
+          "humidity": 91,
+          "transitDurationHours": 12,
+          "location": "Fresno Logistics Junction",
+          "coordinates": {
+            "lat": 37.1,
+            "lng": -120.60000000000001
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 6.5
+        },
+        {
+          "id": "tel-3-1791435447404",
+          "timestamp": "2026-10-07T04:57:27.404Z",
+          "temperature": 3.8,
+          "humidity": 88,
+          "transitDurationHours": 16,
+          "location": "Tejon Pass Transit Hub",
+          "coordinates": {
+            "lat": 37.4,
+            "lng": -120.8
+          },
+          "tempAgingFactor": 1.14,
+          "humidityAgingFactor": 1.07,
+          "combinedAgingFactor": 1.22,
+          "remainingShelfLifeDays": 6.3
+        },
+        {
+          "id": "tel-4-1791435447404",
+          "timestamp": "2026-10-07T08:57:27.404Z",
+          "temperature": 5.5,
+          "humidity": 86,
+          "transitDurationHours": 20,
+          "location": "Bakersfield Cold Cross-Dock",
+          "coordinates": {
+            "lat": 37.7,
+            "lng": -121
+          },
+          "tempAgingFactor": 1.36,
+          "humidityAgingFactor": 1.14,
+          "combinedAgingFactor": 1.55,
+          "remainingShelfLifeDays": 6.04
+        },
+        {
+          "id": "tel-5-1791435447404",
+          "timestamp": "2026-10-07T12:57:27.404Z",
+          "temperature": 6.2,
+          "humidity": 85,
+          "transitDurationHours": 24,
+          "location": "Bakersfield Hub (Thermal Anomaly)",
+          "coordinates": {
+            "lat": 38,
+            "lng": -121.2
+          },
+          "tempAgingFactor": 1.52,
+          "humidityAgingFactor": 1.18,
+          "combinedAgingFactor": 1.79,
+          "remainingShelfLifeDays": 5.74
+        },
+        {
+          "id": "tel-6-1791435447404",
+          "timestamp": "2026-10-07T16:57:27.404Z",
+          "temperature": 5.9,
+          "humidity": 87,
+          "transitDurationHours": 28,
+          "location": "LA North Interstate corridor",
+          "coordinates": {
+            "lat": 38.3,
+            "lng": -121.4
+          },
+          "tempAgingFactor": 1.42,
+          "humidityAgingFactor": 1.1,
+          "combinedAgingFactor": 1.57,
+          "remainingShelfLifeDays": 5.48
+        },
+        {
+          "id": "tel-7-1791435447404",
+          "timestamp": "2026-10-07T20:57:27.404Z",
+          "temperature": 5.1,
+          "humidity": 88,
+          "transitDurationHours": 32,
+          "location": "San Fernando Valley Gateway",
+          "coordinates": {
+            "lat": 38.6,
+            "lng": -121.60000000000001
+          },
+          "tempAgingFactor": 1.31,
+          "humidityAgingFactor": 1.07,
+          "combinedAgingFactor": 1.4,
+          "remainingShelfLifeDays": 5.24
+        },
+        {
+          "id": "tel-8-1791435447405",
+          "timestamp": "2026-10-08T00:57:27.405Z",
+          "temperature": 4.8,
+          "humidity": 89,
+          "transitDurationHours": 36,
+          "location": "LA Regional Distribution Center",
+          "coordinates": {
+            "lat": 38.9,
+            "lng": -121.8
+          },
+          "tempAgingFactor": 1.27,
+          "humidityAgingFactor": 1.03,
+          "combinedAgingFactor": 1.31,
+          "remainingShelfLifeDays": 5.03
+        }
+      ],
+      "hasBreach": true,
+      "breachDescription": "Reefer compressor temperature peaked at 6.2°C during Bakersfield transit. Accelerated aging rate reached 2.8x nominal.",
+      "liquidationOffer": {
+        "id": "liq-9041",
+        "retailerId": "ret-01",
+        "retailerName": "Metro Fresh Supermarket (Downtown Hub)",
+        "recommendedDiscountPercent": 35,
+        "originalPricePerKg": 8.5,
+        "discountedPricePerKg": 5.53,
+        "totalLotValueOriginal": 7225,
+        "totalLotValueDiscounted": 4696.25,
+        "salvagedRevenue": 4696.25,
+        "foodSavedKg": 850,
+        "co2SavedKg": 1530,
+        "urgency": "High",
+        "status": "Pending"
+      }
+    },
+    {
+      "id": "AGR-8820",
+      "productKey": "salmon",
+      "productName": "Wild Atlantic Salmon Fillets",
+      "category": "Seafood",
+      "quantityKg": 420,
+      "origin": "Seattle Port Terminal, WA",
+      "destination": "San Francisco Bay Area, CA",
+      "currentLocation": "Oakland Port Terminal, Dock 4",
+      "transitProgressPercent": 88,
+      "totalExpectedTransitHours": 48,
+      "elapsedTransitHours": 40,
+      "carrier": "Northwest Glacier Freight Lines",
+      "sensorId": "SNSR-SL-4022",
+      "startDate": "2026-10-06T12:57:27.405Z",
+      "currentTemp": 4.3,
+      "currentHumidity": 85,
+      "status": "Critical",
+      "initialShelfLifeDays": 5,
+      "remainingShelfLifeDays": 2.59,
+      "remainingShelfLifePercent": 51.8,
+      "cumulativeAgingDaysLost": 0.75,
+      "currentAgingVelocity": 1.47,
+      "tempAgingMultiplier": 1.47,
+      "humidityAgingMultiplier": 1,
+      "recommendedDiscountPercent": 28,
+      "urgencyScore": 55,
+      "telemetryHistory": [
+        {
+          "id": "tel-0-1791435447405",
+          "timestamp": "2026-10-06T12:57:27.405Z",
+          "temperature": 0.2,
+          "humidity": 88,
+          "transitDurationHours": 4,
+          "location": "Seattle Cold Storage Port",
+          "coordinates": {
+            "lat": 36.5,
+            "lng": -120.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 4.83
+        },
+        {
+          "id": "tel-1-1791435447405",
+          "timestamp": "2026-10-06T16:57:27.405Z",
+          "temperature": 0.4,
+          "humidity": 87,
+          "transitDurationHours": 8,
+          "location": "Tacoma Transit Yard",
+          "coordinates": {
+            "lat": 36.8,
+            "lng": -120.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 4.67
+        },
+        {
+          "id": "tel-2-1791435447405",
+          "timestamp": "2026-10-06T20:57:27.405Z",
+          "temperature": 0.8,
+          "humidity": 86,
+          "transitDurationHours": 12,
+          "location": "Portland Intermodal Hub",
+          "coordinates": {
+            "lat": 37.1,
+            "lng": -120.60000000000001
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 4.5
+        },
+        {
+          "id": "tel-3-1791435447405",
+          "timestamp": "2026-10-07T00:57:27.405Z",
+          "temperature": 2.5,
+          "humidity": 84,
+          "transitDurationHours": 16,
+          "location": "Eugene Oregon Inspection Station",
+          "coordinates": {
+            "lat": 37.4,
+            "lng": -120.8
+          },
+          "tempAgingFactor": 1.12,
+          "humidityAgingFactor": 1.02,
+          "combinedAgingFactor": 1.15,
+          "remainingShelfLifeDays": 4.31
+        },
+        {
+          "id": "tel-4-1791435447405",
+          "timestamp": "2026-10-07T04:57:27.405Z",
+          "temperature": 4.2,
+          "humidity": 82,
+          "transitDurationHours": 20,
+          "location": "Siskiyou Pass (Cooling Unit Alert)",
+          "coordinates": {
+            "lat": 37.7,
+            "lng": -121
+          },
+          "tempAgingFactor": 1.42,
+          "humidityAgingFactor": 1.06,
+          "combinedAgingFactor": 1.51,
+          "remainingShelfLifeDays": 4.06
+        },
+        {
+          "id": "tel-5-1791435447405",
+          "timestamp": "2026-10-07T08:57:27.405Z",
+          "temperature": 4.9,
+          "humidity": 80,
+          "transitDurationHours": 24,
+          "location": "Redding Cross-Dock",
+          "coordinates": {
+            "lat": 38,
+            "lng": -121.2
+          },
+          "tempAgingFactor": 1.75,
+          "humidityAgingFactor": 1.1,
+          "combinedAgingFactor": 1.93,
+          "remainingShelfLifeDays": 3.73
+        },
+        {
+          "id": "tel-6-1791435447405",
+          "timestamp": "2026-10-07T12:57:27.405Z",
+          "temperature": 5.2,
+          "humidity": 81,
+          "transitDurationHours": 28,
+          "location": "Sacramento North Hub",
+          "coordinates": {
+            "lat": 38.3,
+            "lng": -121.4
+          },
+          "tempAgingFactor": 1.91,
+          "humidityAgingFactor": 1.08,
+          "combinedAgingFactor": 2.06,
+          "remainingShelfLifeDays": 3.39
+        },
+        {
+          "id": "tel-7-1791435447405",
+          "timestamp": "2026-10-07T16:57:27.405Z",
+          "temperature": 4.8,
+          "humidity": 83,
+          "transitDurationHours": 32,
+          "location": "Stockton Freight Depot",
+          "coordinates": {
+            "lat": 38.6,
+            "lng": -121.60000000000001
+          },
+          "tempAgingFactor": 1.7,
+          "humidityAgingFactor": 1.04,
+          "combinedAgingFactor": 1.77,
+          "remainingShelfLifeDays": 3.1
+        },
+        {
+          "id": "tel-8-1791435447405",
+          "timestamp": "2026-10-07T20:57:27.405Z",
+          "temperature": 4.5,
+          "humidity": 84,
+          "transitDurationHours": 36,
+          "location": "Modesto Gateway Terminal",
+          "coordinates": {
+            "lat": 38.9,
+            "lng": -121.8
+          },
+          "tempAgingFactor": 1.56,
+          "humidityAgingFactor": 1.02,
+          "combinedAgingFactor": 1.59,
+          "remainingShelfLifeDays": 2.83
+        },
+        {
+          "id": "tel-9-1791435447405",
+          "timestamp": "2026-10-08T00:57:27.405Z",
+          "temperature": 4.3,
+          "humidity": 85,
+          "transitDurationHours": 40,
+          "location": "Oakland Port Terminal",
+          "coordinates": {
+            "lat": 39.2,
+            "lng": -122
+          },
+          "tempAgingFactor": 1.47,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1.47,
+          "remainingShelfLifeDays": 2.59
+        }
+      ],
+      "hasBreach": true,
+      "breachDescription": "Thermal sensor detected critical excursion to 5.2°C at Siskiyou Pass. Spoilage risk imminent within 26 hours.",
+      "liquidationOffer": {
+        "id": "liq-8820",
+        "retailerId": "ret-03",
+        "retailerName": "Bayside Wholesale Seafood & Deli",
+        "recommendedDiscountPercent": 65,
+        "originalPricePerKg": 24,
+        "discountedPricePerKg": 8.4,
+        "totalLotValueOriginal": 10080,
+        "totalLotValueDiscounted": 3528,
+        "salvagedRevenue": 3528,
+        "foodSavedKg": 420,
+        "co2SavedKg": 2268,
+        "urgency": "Immediate",
+        "status": "Accepted",
+        "dispatchedAt": "2026-10-08T02:57:27.405Z"
+      }
+    },
+    {
+      "id": "AGR-7412",
+      "productKey": "avocados",
+      "productName": "Hass Avocados (Cold Cured)",
+      "category": "Exotic Fruits",
+      "quantityKg": 1600,
+      "origin": "Laredo Cross-Border Hub, TX",
+      "destination": "Dallas-Fort Worth Metroplex, TX",
+      "currentLocation": "Fort Worth Cold Storage Depot",
+      "transitProgressPercent": 80,
+      "totalExpectedTransitHours": 60,
+      "elapsedTransitHours": 48,
+      "carrier": "SunBelt Refrigerated Logistics",
+      "sensorId": "SNSR-AV-1099",
+      "startDate": "2026-10-06T04:57:27.405Z",
+      "currentTemp": 5.4,
+      "currentHumidity": 88,
+      "status": "Healthy",
+      "initialShelfLifeDays": 14,
+      "remainingShelfLifeDays": 12,
+      "remainingShelfLifePercent": 85.7,
+      "cumulativeAgingDaysLost": 0,
+      "currentAgingVelocity": 1,
+      "tempAgingMultiplier": 1,
+      "humidityAgingMultiplier": 1,
+      "recommendedDiscountPercent": 0,
+      "urgencyScore": 10,
+      "telemetryHistory": [
+        {
+          "id": "tel-0-1791435447405",
+          "timestamp": "2026-10-06T04:57:27.405Z",
+          "temperature": 5.6,
+          "humidity": 88,
+          "transitDurationHours": 6,
+          "location": "Michoacán Cold Prep Center",
+          "coordinates": {
+            "lat": 36.5,
+            "lng": -120.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 13.75
+        },
+        {
+          "id": "tel-1-1791435447405",
+          "timestamp": "2026-10-06T10:57:27.405Z",
+          "temperature": 5.8,
+          "humidity": 87,
+          "transitDurationHours": 12,
+          "location": "Laredo Port of Entry",
+          "coordinates": {
+            "lat": 36.8,
+            "lng": -120.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 13.5
+        },
+        {
+          "id": "tel-2-1791435447405",
+          "timestamp": "2026-10-06T16:57:27.405Z",
+          "temperature": 6,
+          "humidity": 88,
+          "transitDurationHours": 18,
+          "location": "San Antonio Distribution Hub",
+          "coordinates": {
+            "lat": 37.1,
+            "lng": -120.60000000000001
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 13.25
+        },
+        {
+          "id": "tel-3-1791435447405",
+          "timestamp": "2026-10-06T22:57:27.405Z",
+          "temperature": 5.9,
+          "humidity": 89,
+          "transitDurationHours": 24,
+          "location": "Austin Transit Terminal",
+          "coordinates": {
+            "lat": 37.4,
+            "lng": -120.8
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 13
+        },
+        {
+          "id": "tel-4-1791435447405",
+          "timestamp": "2026-10-07T04:57:27.405Z",
+          "temperature": 5.7,
+          "humidity": 87,
+          "transitDurationHours": 30,
+          "location": "Waco North Checkpoint",
+          "coordinates": {
+            "lat": 37.7,
+            "lng": -121
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 12.75
+        },
+        {
+          "id": "tel-5-1791435447405",
+          "timestamp": "2026-10-07T10:57:27.405Z",
+          "temperature": 5.5,
+          "humidity": 88,
+          "transitDurationHours": 36,
+          "location": "Dallas Freight Junction",
+          "coordinates": {
+            "lat": 38,
+            "lng": -121.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 12.5
+        },
+        {
+          "id": "tel-6-1791435447405",
+          "timestamp": "2026-10-07T16:57:27.405Z",
+          "temperature": 5.6,
+          "humidity": 89,
+          "transitDurationHours": 42,
+          "location": "Fort Worth Cold Storage",
+          "coordinates": {
+            "lat": 38.3,
+            "lng": -121.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 12.25
+        },
+        {
+          "id": "tel-7-1791435447405",
+          "timestamp": "2026-10-07T22:57:27.405Z",
+          "temperature": 5.4,
+          "humidity": 88,
+          "transitDurationHours": 48,
+          "location": "DFW Regional Depot",
+          "coordinates": {
+            "lat": 38.6,
+            "lng": -121.60000000000001
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 12
+        }
+      ],
+      "hasBreach": false
+    },
+    {
+      "id": "AGR-6105",
+      "productKey": "spinach",
+      "productName": "Hydroponic Baby Spinach",
+      "category": "Leafy Greens",
+      "quantityKg": 520,
+      "origin": "Santa Maria Farms, CA",
+      "destination": "San Francisco Produce Market, CA",
+      "currentLocation": "San Francisco Peninsula Hub",
+      "transitProgressPercent": 85,
+      "totalExpectedTransitHours": 30,
+      "elapsedTransitHours": 24,
+      "carrier": "Bay Green Haulers Unit 9",
+      "sensorId": "SNSR-SP-7711",
+      "startDate": "2026-10-07T04:57:27.405Z",
+      "currentTemp": 3.1,
+      "currentHumidity": 74,
+      "status": "At Risk",
+      "initialShelfLifeDays": 8,
+      "remainingShelfLifeDays": 6.32,
+      "remainingShelfLifePercent": 79,
+      "cumulativeAgingDaysLost": 0.68,
+      "currentAgingVelocity": 2.07,
+      "tempAgingMultiplier": 1.01,
+      "humidityAgingMultiplier": 2.05,
+      "recommendedDiscountPercent": 0,
+      "urgencyScore": 75,
+      "telemetryHistory": [
+        {
+          "id": "tel-0-1791435447405",
+          "timestamp": "2026-10-07T04:57:27.405Z",
+          "temperature": 1.5,
+          "humidity": 96,
+          "transitDurationHours": 3,
+          "location": "Santa Maria Greenhouse Farm",
+          "coordinates": {
+            "lat": 36.5,
+            "lng": -120.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 7.88
+        },
+        {
+          "id": "tel-1-1791435447405",
+          "timestamp": "2026-10-07T07:57:27.405Z",
+          "temperature": 1.8,
+          "humidity": 94,
+          "transitDurationHours": 6,
+          "location": "San Luis Obispo Terminal",
+          "coordinates": {
+            "lat": 36.8,
+            "lng": -120.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1.05,
+          "combinedAgingFactor": 1.05,
+          "remainingShelfLifeDays": 7.74
+        },
+        {
+          "id": "tel-2-1791435447405",
+          "timestamp": "2026-10-07T10:57:27.405Z",
+          "temperature": 2.2,
+          "humidity": 88,
+          "transitDurationHours": 9,
+          "location": "Paso Robles Checkpoint",
+          "coordinates": {
+            "lat": 37.1,
+            "lng": -120.60000000000001
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1.35,
+          "combinedAgingFactor": 1.35,
+          "remainingShelfLifeDays": 7.58
+        },
+        {
+          "id": "tel-3-1791435447405",
+          "timestamp": "2026-10-07T13:57:27.405Z",
+          "temperature": 2.5,
+          "humidity": 82,
+          "transitDurationHours": 12,
+          "location": "Salinas Valley Connector",
+          "coordinates": {
+            "lat": 37.4,
+            "lng": -120.8
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1.65,
+          "combinedAgingFactor": 1.65,
+          "remainingShelfLifeDays": 7.37
+        },
+        {
+          "id": "tel-4-1791435447405",
+          "timestamp": "2026-10-07T16:57:27.405Z",
+          "temperature": 2.8,
+          "humidity": 76,
+          "transitDurationHours": 15,
+          "location": "Gilroy Transit Corridor",
+          "coordinates": {
+            "lat": 37.7,
+            "lng": -121
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1.95,
+          "combinedAgingFactor": 1.95,
+          "remainingShelfLifeDays": 7.13
+        },
+        {
+          "id": "tel-5-1791435447405",
+          "timestamp": "2026-10-07T19:57:27.405Z",
+          "temperature": 3.2,
+          "humidity": 73,
+          "transitDurationHours": 18,
+          "location": "San Jose Logistics Yard",
+          "coordinates": {
+            "lat": 38,
+            "lng": -121.2
+          },
+          "tempAgingFactor": 1.02,
+          "humidityAgingFactor": 2.1,
+          "combinedAgingFactor": 2.14,
+          "remainingShelfLifeDays": 6.86
+        },
+        {
+          "id": "tel-6-1791435447405",
+          "timestamp": "2026-10-07T22:57:27.405Z",
+          "temperature": 3.4,
+          "humidity": 72,
+          "transitDurationHours": 21,
+          "location": "San Francisco Peninsula Hub",
+          "coordinates": {
+            "lat": 38.3,
+            "lng": -121.4
+          },
+          "tempAgingFactor": 1.04,
+          "humidityAgingFactor": 2.15,
+          "combinedAgingFactor": 2.24,
+          "remainingShelfLifeDays": 6.58
+        },
+        {
+          "id": "tel-7-1791435447405",
+          "timestamp": "2026-10-08T01:57:27.405Z",
+          "temperature": 3.1,
+          "humidity": 74,
+          "transitDurationHours": 24,
+          "location": "SF Food Distribution Center",
+          "coordinates": {
+            "lat": 38.6,
+            "lng": -121.60000000000001
+          },
+          "tempAgingFactor": 1.01,
+          "humidityAgingFactor": 2.05,
+          "combinedAgingFactor": 2.07,
+          "remainingShelfLifeDays": 6.32
+        }
+      ],
+      "hasBreach": true,
+      "breachDescription": "Container humidity collapsed from 95% down to 72% RH. High transpirational dehydration accelerates wilting.",
+      "liquidationOffer": {
+        "id": "liq-6105",
+        "retailerId": "ret-02",
+        "retailerName": "GreenLife Organic Co-operative",
+        "recommendedDiscountPercent": 30,
+        "originalPricePerKg": 9,
+        "discountedPricePerKg": 6.3,
+        "totalLotValueOriginal": 4680,
+        "totalLotValueDiscounted": 3276,
+        "salvagedRevenue": 3276,
+        "foodSavedKg": 520,
+        "co2SavedKg": 728,
+        "urgency": "Medium",
+        "status": "Pending"
+      }
+    },
+    {
+      "id": "AGR-5029",
+      "productKey": "milk",
+      "productName": "Grade-A Artisan Whole Milk",
+      "category": "Dairy",
+      "quantityKg": 2100,
+      "origin": "Sonoma Valley Co-op, CA",
+      "destination": "Oakland Regional Depot, CA",
+      "currentLocation": "Berkeley Freight Arterial Corridor",
+      "transitProgressPercent": 92,
+      "totalExpectedTransitHours": 32,
+      "elapsedTransitHours": 28,
+      "carrier": "Golden State Dairy Transport",
+      "sensorId": "SNSR-MK-3100",
+      "startDate": "2026-10-07T00:57:27.405Z",
+      "currentTemp": 2.1,
+      "currentHumidity": 81,
+      "status": "Healthy",
+      "initialShelfLifeDays": 12,
+      "remainingShelfLifeDays": 10.83,
+      "remainingShelfLifePercent": 90.3,
+      "cumulativeAgingDaysLost": 0,
+      "currentAgingVelocity": 1,
+      "tempAgingMultiplier": 1,
+      "humidityAgingMultiplier": 1,
+      "recommendedDiscountPercent": 0,
+      "urgencyScore": 10,
+      "telemetryHistory": [
+        {
+          "id": "tel-0-1791435447405",
+          "timestamp": "2026-10-07T00:57:27.405Z",
+          "temperature": 1.8,
+          "humidity": 78,
+          "transitDurationHours": 4,
+          "location": "Sonoma Artisan Dairy Co-op",
+          "coordinates": {
+            "lat": 36.5,
+            "lng": -120.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 11.83
+        },
+        {
+          "id": "tel-1-1791435447405",
+          "timestamp": "2026-10-07T04:57:27.405Z",
+          "temperature": 1.9,
+          "humidity": 79,
+          "transitDurationHours": 8,
+          "location": "Santa Rosa Depo",
+          "coordinates": {
+            "lat": 36.8,
+            "lng": -120.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 11.67
+        },
+        {
+          "id": "tel-2-1791435447405",
+          "timestamp": "2026-10-07T08:57:27.405Z",
+          "temperature": 2.1,
+          "humidity": 80,
+          "transitDurationHours": 12,
+          "location": "Novato Checkpoint",
+          "coordinates": {
+            "lat": 37.1,
+            "lng": -120.60000000000001
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 11.5
+        },
+        {
+          "id": "tel-3-1791435447405",
+          "timestamp": "2026-10-07T12:57:27.405Z",
+          "temperature": 2,
+          "humidity": 78,
+          "transitDurationHours": 16,
+          "location": "San Rafael Gateway",
+          "coordinates": {
+            "lat": 37.4,
+            "lng": -120.8
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 11.33
+        },
+        {
+          "id": "tel-4-1791435447405",
+          "timestamp": "2026-10-07T16:57:27.405Z",
+          "temperature": 1.9,
+          "humidity": 79,
+          "transitDurationHours": 20,
+          "location": "Richmond Logistics Park",
+          "coordinates": {
+            "lat": 37.7,
+            "lng": -121
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 11.17
+        },
+        {
+          "id": "tel-5-1791435447405",
+          "timestamp": "2026-10-07T20:57:27.405Z",
+          "temperature": 2.2,
+          "humidity": 80,
+          "transitDurationHours": 24,
+          "location": "Berkeley Depot",
+          "coordinates": {
+            "lat": 38,
+            "lng": -121.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 11
+        },
+        {
+          "id": "tel-6-1791435447405",
+          "timestamp": "2026-10-08T00:57:27.405Z",
+          "temperature": 2.1,
+          "humidity": 81,
+          "transitDurationHours": 28,
+          "location": "Oakland Distribution Center",
+          "coordinates": {
+            "lat": 38.3,
+            "lng": -121.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 10.83
+        }
+      ],
+      "hasBreach": false
+    },
+    {
+      "id": "AGR-4311",
+      "productKey": "wagyu",
+      "productName": "Prime Wagyu Beef Striploin",
+      "category": "Meat",
+      "quantityKg": 310,
+      "origin": "Omaha Processing, NE",
+      "destination": "Chicago Central Logistics, IL",
+      "currentLocation": "Chicago Central Distribution Hub, Ramp 12",
+      "transitProgressPercent": 95,
+      "totalExpectedTransitHours": 36,
+      "elapsedTransitHours": 32,
+      "carrier": "Midwest Prime Reefer Unit 04",
+      "sensorId": "SNSR-WG-0909",
+      "startDate": "2026-10-06T20:57:27.405Z",
+      "currentTemp": 5.8,
+      "currentHumidity": 78,
+      "status": "Critical",
+      "initialShelfLifeDays": 10,
+      "remainingShelfLifeDays": 8.19,
+      "remainingShelfLifePercent": 81.9,
+      "cumulativeAgingDaysLost": 0.47,
+      "currentAgingVelocity": 1.71,
+      "tempAgingMultiplier": 1.64,
+      "humidityAgingMultiplier": 1.04,
+      "recommendedDiscountPercent": 0,
+      "urgencyScore": 10,
+      "telemetryHistory": [
+        {
+          "id": "tel-0-1791435447405",
+          "timestamp": "2026-10-06T20:57:27.405Z",
+          "temperature": 0,
+          "humidity": 83,
+          "transitDurationHours": 4,
+          "location": "Omaha Prime Processing Center",
+          "coordinates": {
+            "lat": 36.5,
+            "lng": -120.2
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 9.83
+        },
+        {
+          "id": "tel-1-1791435447405",
+          "timestamp": "2026-10-07T00:57:27.405Z",
+          "temperature": 0.5,
+          "humidity": 82,
+          "transitDurationHours": 8,
+          "location": "Lincoln Nebraska Hub",
+          "coordinates": {
+            "lat": 36.8,
+            "lng": -120.4
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 9.67
+        },
+        {
+          "id": "tel-2-1791435447405",
+          "timestamp": "2026-10-07T04:57:27.405Z",
+          "temperature": 1.2,
+          "humidity": 81,
+          "transitDurationHours": 12,
+          "location": "Des Moines Transit Cross-Dock",
+          "coordinates": {
+            "lat": 37.1,
+            "lng": -120.60000000000001
+          },
+          "tempAgingFactor": 1,
+          "humidityAgingFactor": 1,
+          "combinedAgingFactor": 1,
+          "remainingShelfLifeDays": 9.5
+        },
+        {
+          "id": "tel-3-1791435447405",
+          "timestamp": "2026-10-07T08:57:27.405Z",
+          "temperature": 3.5,
+          "humidity": 79,
+          "transitDurationHours": 16,
+          "location": "Quad Cities River Crossing",
+          "coordinates": {
+            "lat": 37.4,
+            "lng": -120.8
+          },
+          "tempAgingFactor": 1.15,
+          "humidityAgingFactor": 1.02,
+          "combinedAgingFactor": 1.17,
+          "remainingShelfLifeDays": 9.31
+        },
+        {
+          "id": "tel-4-1791435447405",
+          "timestamp": "2026-10-07T12:57:27.405Z",
+          "temperature": 4.8,
+          "humidity": 78,
+          "transitDurationHours": 20,
+          "location": "Peoria Junction (Aux Reefer Alert)",
+          "coordinates": {
+            "lat": 37.7,
+            "lng": -121
+          },
+          "tempAgingFactor": 1.29,
+          "humidityAgingFactor": 1.04,
+          "combinedAgingFactor": 1.34,
+          "remainingShelfLifeDays": 9.08
+        },
+        {
+          "id": "tel-5-1791435447405",
+          "timestamp": "2026-10-07T16:57:27.405Z",
+          "temperature": 5.6,
+          "humidity": 77,
+          "transitDurationHours": 24,
+          "location": "Rockford Cold Logistics",
+          "coordinates": {
+            "lat": 38,
+            "lng": -121.2
+          },
+          "tempAgingFactor": 1.56,
+          "humidityAgingFactor": 1.06,
+          "combinedAgingFactor": 1.65,
+          "remainingShelfLifeDays": 8.81
+        },
+        {
+          "id": "tel-6-1791435447405",
+          "timestamp": "2026-10-07T20:57:27.405Z",
+          "temperature": 6.2,
+          "humidity": 76,
+          "transitDurationHours": 28,
+          "location": "Chicago O'Hare Cargo Gateway",
+          "coordinates": {
+            "lat": 38.3,
+            "lng": -121.4
+          },
+          "tempAgingFactor": 1.82,
+          "humidityAgingFactor": 1.08,
+          "combinedAgingFactor": 1.97,
+          "remainingShelfLifeDays": 8.48
+        },
+        {
+          "id": "tel-7-1791435447405",
+          "timestamp": "2026-10-08T00:57:27.405Z",
+          "temperature": 5.8,
+          "humidity": 78,
+          "transitDurationHours": 32,
+          "location": "Chicago Central Distribution Hub",
+          "coordinates": {
+            "lat": 38.6,
+            "lng": -121.60000000000001
+          },
+          "tempAgingFactor": 1.64,
+          "humidityAgingFactor": 1.04,
+          "combinedAgingFactor": 1.71,
+          "remainingShelfLifeDays": 8.19
+        }
+      ],
+      "hasBreach": true,
+      "breachDescription": "Auxiliary refrigeration failed during Peoria transit stop. Core temp climbed to 6.2°C for 5 hours.",
+      "liquidationOffer": {
+        "id": "liq-4311",
+        "retailerId": "ret-01",
+        "retailerName": "Metro Fresh Supermarket (Downtown Hub)",
+        "recommendedDiscountPercent": 60,
+        "originalPricePerKg": 45,
+        "discountedPricePerKg": 18,
+        "totalLotValueOriginal": 13950,
+        "totalLotValueDiscounted": 5580,
+        "salvagedRevenue": 5580,
+        "foodSavedKg": 310,
+        "co2SavedKg": 8370,
+        "urgency": "Immediate",
+        "status": "Pending"
+      }
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alt-01",
+      "batchId": "AGR-8820",
+      "batchName": "Wild Atlantic Salmon Fillets",
+      "severity": "CRITICAL",
+      "title": "Thermal Excursion Breach — 5.2°C Exceeded",
+      "message": "Refrigeration unit exceeded critical threshold (4.0°C) for 6.2 hours. Remaining shelf life plunged to 1.1 days. Urgent liquidation required.",
+      "timestamp": "2026-10-08T01:57:27.405Z",
+      "resolved": false
+    },
+    {
+      "id": "alt-02",
+      "batchId": "AGR-4311",
+      "batchName": "Prime Wagyu Beef Striploin",
+      "severity": "CRITICAL",
+      "title": "Auxiliary Cooling Failure in Transit",
+      "message": "Trailer reefer power fluctuation at Peoria. Temperature rose to 5.8°C. Degradation velocity at 2.6x nominal.",
+      "timestamp": "2026-10-07T23:57:27.405Z",
+      "resolved": false
+    },
+    {
+      "id": "alt-03",
+      "batchId": "AGR-9041",
+      "batchName": "Organic California Strawberries",
+      "severity": "WARNING",
+      "title": "Temperature Elevated in Transit Hub B",
+      "message": "Bakersfield transfer dock temperature reached 6.2°C. Dynamic discount recommendation increased to 35%.",
+      "timestamp": "2026-10-07T18:57:27.405Z",
+      "resolved": false
+    },
+    {
+      "id": "alt-04",
+      "batchId": "AGR-6105",
+      "batchName": "Hydroponic Baby Spinach",
+      "severity": "WARNING",
+      "title": "Severe Humidity Deficit (72% RH)",
+      "message": "Optimal range is 95-98%. Water loss acceleration factor is 2.15x. Wilting warning triggered.",
+      "timestamp": "2026-10-07T20:57:27.405Z",
+      "resolved": false
+    },
+    {
+      "id": "alt-05",
+      "batchId": "AGR-7412",
+      "batchName": "Hass Avocados (Cold Cured)",
+      "severity": "INFO",
+      "title": "Checkpoint Reached: DFW Regional Hub",
+      "message": "Batch arrived at intermediate distribution center within target thermal window (5.4°C).",
+      "timestamp": "2026-10-08T02:57:27.405Z",
+      "resolved": true,
+      "resolvedAt": "2026-10-08T03:57:27.405Z"
+    }
+  ],
+  "retailers": [
+    {
+      "id": "ret-01",
+      "name": "Metro Fresh Supermarket (Downtown Hub)",
+      "type": "Hypermarket Chain",
+      "distanceKm": 8.5,
+      "address": "420 Commercial Ave, Downtown",
+      "maxIntakeKg": 2500,
+      "contactPerson": "David Chen (Procurement)",
+      "phone": "+1 (555) 329-8472",
+      "preferredCategories": [
+        "Berries",
+        "Leafy Greens",
+        "Dairy",
+        "Meat"
+      ]
+    },
+    {
+      "id": "ret-02",
+      "name": "GreenLife Organic Co-operative",
+      "type": "Specialty Produce Market",
+      "distanceKm": 14.2,
+      "address": "88 Eco Way, West District",
+      "maxIntakeKg": 800,
+      "contactPerson": "Sarah Jenkins (Store Director)",
+      "phone": "+1 (555) 782-9011",
+      "preferredCategories": [
+        "Berries",
+        "Leafy Greens",
+        "Exotic Fruits"
+      ]
+    },
+    {
+      "id": "ret-03",
+      "name": "Bayside Wholesale Seafood & Deli",
+      "type": "Cold-Chain Specialty Retailer",
+      "distanceKm": 6.1,
+      "address": "15 Harbor Blvd, Pier 9",
+      "maxIntakeKg": 1200,
+      "contactPerson": "Marco Rossi",
+      "phone": "+1 (555) 441-2309",
+      "preferredCategories": [
+        "Seafood",
+        "Meat"
+      ]
+    },
+    {
+      "id": "ret-04",
+      "name": "Daily Harvest Community Grocers",
+      "type": "Neighborhood Supermarket",
+      "distanceKm": 19.8,
+      "address": "740 Valley View Rd, Suburb North",
+      "maxIntakeKg": 1500,
+      "contactPerson": "Elena Rostova",
+      "phone": "+1 (555) 912-3844",
+      "preferredCategories": [
+        "Dairy",
+        "Leafy Greens",
+        "Exotic Fruits"
+      ]
+    },
+    {
+      "id": "ret-05",
+      "name": "City Food Rescue & Urban Relief Bank",
+      "type": "Non-profit Food Redistribution",
+      "distanceKm": 4.8,
+      "address": "12 Civic Center Plaza",
+      "maxIntakeKg": 4000,
+      "contactPerson": "Angela Brooks (Rescue Logistics)",
+      "phone": "+1 (555) 120-4490",
+      "preferredCategories": [
+        "Berries",
+        "Leafy Greens",
+        "Dairy",
+        "Seafood",
+        "Meat",
+        "Exotic Fruits"
+      ]
+    }
+  ],
+  "simulation": {
+    "isRunning": false,
+    "tickIntervalSeconds": 4,
+    "lastTickAt": "2026-10-08T04:57:27.405Z",
+    "totalTicks": 0
+  }
+}

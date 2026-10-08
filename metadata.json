@@ -1,0 +1,8 @@
+{
+  "name": "AgroSense",
+  "description": "Intelligent perishable cold-chain monitoring platform with simulated telemetry, explainable shelf-life degradation modeling, dynamic retail liquidation discounts, and real-time alerts.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
